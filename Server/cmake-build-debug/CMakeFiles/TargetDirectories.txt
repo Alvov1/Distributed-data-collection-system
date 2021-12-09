@@ -1,0 +1,3 @@
+E:/BSIT/Laboratornaya_3/Server/cmake-build-debug/CMakeFiles/Project.dir
+E:/BSIT/Laboratornaya_3/Server/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/BSIT/Laboratornaya_3/Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
