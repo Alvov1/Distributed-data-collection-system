@@ -14,4 +14,6 @@ The servers are running continuously and are constantly waiting for incoming con
 
 All information transmitted between client and server is encrypted using Windows CryptoAPI. Asynchronous RSA1 is used for key exchange, and synchronous RC4 is used afterwards for data transmission. 
 
+Serving clients on the server is implemented using Windows I/O completion ports.
+
 Windows MSVC compiler only.
