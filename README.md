@@ -16,4 +16,4 @@ All information transmitted between client and server is encrypted using Windows
 
 Serving clients on the server is implemented using Windows I/O completion ports.
 
-Windows MSVC compiler only.
+Windows MSVC compiler only.  
